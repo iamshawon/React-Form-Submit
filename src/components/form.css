@@ -1,0 +1,32 @@
+.formStyle {
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 150px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  width: 450px;
+}
+
+div {
+  margin: 10px;
+}
+
+input {
+  height: 30px;
+  width: 60%;
+}
+
+button {
+  cursor: pointer;
+  background-color: #3498db;
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 62%;
+}
